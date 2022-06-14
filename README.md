@@ -1,2 +1,2 @@
 
-NICE AND CLEAN portfolio website MADE WITH LOVE using html,css and javascript
+*Modern UI for a portfolio displaying significant info to get you a job
